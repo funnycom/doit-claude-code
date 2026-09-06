@@ -4,7 +4,7 @@
 
 ## 주요 기능
 
-- **뉴스 자동 수집**: TechCrunch, The Verge, VentureBeat 등 RSS 피드 병렬 수집
+- **뉴스 자동 수집**: TechCrunch, The Verge 등 RSS 피드 병렬 수집
 - **AI 번역/요약**: Claude API로 영문 기사를 한국어로 번역 및 3~4문장 요약
 - **카테고리 분류**: LLM/생성AI, 로보틱스, 이미지/영상AI 등 자동 분류
 - **Notion 저장**: 중요 기사를 Notion 데이터베이스에 아카이빙

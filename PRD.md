@@ -43,7 +43,6 @@
 |--------|---------|
 | TechCrunch AI | `https://techcrunch.com/category/artificial-intelligence/feed/` |
 | The Verge Tech | `https://www.theverge.com/rss/tech/index.xml` |
-| VentureBeat AI | `https://venturebeat.com/category/ai/feed/` |
 
 ### 3.3 Claude AI 처리
 - 수집된 각 기사를 Claude API로 처리
@@ -57,7 +56,7 @@
 - 번역된 제목 (한국어)
 - 3~4문장 한국어 요약
 - 카테고리 뱃지
-- 출처 (TechCrunch / The Verge / VentureBeat)
+- 출처 (TechCrunch / The Verge)
 - 발행일
 - 원문 보기 링크
 - Notion 저장 버튼 (저장 완료 시 체크 표시로 변경, 버튼 비활성화)
