@@ -1,3 +1,13 @@
+> 💬 **궁금한 점이 있으신가요?**
+> 이 저장소는 [Discussions](https://github.com/funnycom/doit-claude-code/discussions)에서 독자님들과 소통하고 있어요.
+> - 📢 [알립니다](https://github.com/doit-claude-code/discussions/categories/announcements) — 책 관련 공지사항 및 정정 안내
+> - 💬 [질문/답변](https://github.com/doit-claude-code/discussions/categories/q-a) — 책 내용이나 코드가 막힐 때
+> - 🎉 [자랑해요](https://github.com/doit-claude-code/discussions/categories/show-and-tell) — 클로드 코드로 만든 나만의 앱 소개
+>
+> 📝 오탈자나 책 내용 오류는 [Issues](https://github.com/사용자명/저장소명/issues)로 제보해 주세요!
+
+--------
+
 # AI 뉴스 수집기
 
 해외 AI 뉴스를 RSS로 자동 수집하고, Claude AI가 한국어로 번역/요약/카테고리 분류하여 카드 형태로 보여주는 웹 애플리케이션입니다.
