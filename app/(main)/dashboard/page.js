@@ -91,6 +91,8 @@ export default function DashboardPage() {
     setPage(1);
     fetchNews(activeCategory, 1);
     fetchTotalCount();
+    // 뉴스 처리 중 새로 만들어진 카테고리를 필터 바에 반영
+    fetchCategories();
   }
 
   // 삭제된 기사를 목록에서 제거
