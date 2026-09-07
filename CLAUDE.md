@@ -85,4 +85,11 @@ DATABASE_URL=
 ANTHROPIC_API_KEY=
 NOTION_MCP_SERVER_URL=
 NOTION_DATABASE_ID=
+ADMIN_USER_IDS=       # 쓰기 API를 허용할 Clerk userId (쉼표로 여러 개). 미설정 시 모든 쓰기 요청이 403
 ```
+
+### 권한 모델
+
+읽기 API(`GET /api/news`, `/api/news/count`, `/api/categories`)는 로그인만 요구.
+쓰기 API(`POST /api/news/fetch`·`/process`, `DELETE /api/news/[id]`, `POST`·`PUT`·`DELETE /api/categories`, `POST /api/notion`)는
+`lib/auth.js`의 `requireAdmin()`으로 `ADMIN_USER_IDS`에 포함된 userId만 허용.
