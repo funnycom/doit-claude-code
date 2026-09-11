@@ -4,6 +4,8 @@
 > - 💬 [질문/답변](https://github.com/funnycom/doit-claude-code/discussions/categories/q-a) — 책 내용이나 코드가 막힐 때
 > - 🎉 [자랑해요](https://github.com/funnycom/doit-claude-code/discussions/categories/show-and-tell) — 클로드 코드로 만든 나만의 앱 소개
 >
+> 📚 책에서 사용한 프롬프트는 [Wiki](https://github.com/funnycom/doit-claude-code/wiki)에서 장별로 확인하실 수 있어요.
+>
 > 📝 오탈자나 책 내용 오류는 [Issues](https://github.com/funnycom/doit-claude-code/issues)로 제보해 주세요!
 
 --------
